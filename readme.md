@@ -1,4 +1,4 @@
-# gitgud
+# Git Gud
 Git should have this command auto included in his file.
 
 Everybody need an easy way to push on the master branch.
