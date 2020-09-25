@@ -1,2 +1,2 @@
 [alias]
-	gud = !git add -A && git commit --allow-empty -m \"Git Gud\" && git push origin -f
+	gud = !git add -A && git commit --allow-empty -m \"Git Gud\" && git push origin master -f && echo "Git Gud Scrub"
