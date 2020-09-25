@@ -1,2 +1,2 @@
 [alias]
-	gud = !git add -A && git commit --allow-empty -m \"empty initial commit\" && git origin/master -f
+	gud = !git add -A && git commit --allow-empty -m \"empty initial commit\" && git push origin/master -f
