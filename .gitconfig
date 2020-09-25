@@ -1,0 +1,2 @@
+[alias]
+  gud = add . git commit -m "Git gud" git push origin/master -f
